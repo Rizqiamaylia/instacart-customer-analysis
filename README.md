@@ -55,3 +55,38 @@ The objective is to identify purchasing patterns, product preferences, reorder b
 Completed data cleaning, exploratory data analysis, 24 SQL analyses, and 11 SQL visualizations.
 
 Further documentation and project files will be added.
+
+## Data Visualizations
+
+### 1. Top 10 Most Purchased Products
+![Top Products](<visualizations/top 10 most purchased products.png>)
+
+### 2. Top 10 Departments by Purchase Volume
+![Top Departments](<visualizations/top 10 departments by purchase volume.png>)
+
+### 3. Reorder Rate by Department
+![Reorder Rate by Department](<visualizations/reorder rate by department.png>)
+
+### 4. Top 10 Frequently Purchased Product Pairs
+![Product Pairs](<visualizations/top 10 frequently purchased product pairs.png>)
+
+### 5. Average Basket Size by Hour
+![Average Basket Size](<visualizations/average basket size by hour.png>)
+
+### 6. Order Distribution by Hour
+![Order Distribution by Hour](<visualizations/order distribution by hour.png>)
+
+### 7. Order Distribution by Day
+![Order Distribution by Day](<visualizations/order distribution by day.png>)
+
+### 8. Customer Order Frequency Distribution
+![Customer Order Frequency](<visualizations/customer order frequency distribution.png>)
+
+### 9. Top 10 Aisles by Reorder Rate
+![Aisle Reorder Rate](<visualizations/top 10 aisles by reorder rate.png>)
+
+### 10. Distribution of Days Between Orders
+![Order Intervals](<visualizations/distribution of days between orders.png>)
+
+### 11. Top 10 Most Reordered Products
+![Most Reordered Products](<visualizations/top 10 most reordered products.png>)
