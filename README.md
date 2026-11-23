@@ -39,7 +39,7 @@ The objective is to identify purchasing patterns, product preferences, reorder b
 - Observed customers placed an average of 16.59 orders.
 - Banana was the most frequently purchased product, with 230,835 purchases.
 - Produce was the leading department, with 4,653,754 product records.
-- Approximately 59.07% of product-line records represented reordered products.
+- Approximately 59.07% of purchased product records were repeat purchases by the same customers.
 - Dairy & Eggs had the highest department-level reorder rate at 67.01%.
 - Bag of Organic Bananas and Organic Strawberries were the most frequently purchased product pair, appearing together in 30,830 orders.
 
@@ -91,6 +91,13 @@ Completed data cleaning, exploratory data analysis (EDA), 24 SQL analyses, 11 ED
 ![Most Reordered Products](<visualizations/top 10 most reordered products.png>)
 
 ## Power BI Dashboard
+
+An interactive dashboard built with Power BI to explore customer behavior, product performance, and reorder patterns across four pages:
+
+- Overview
+- Customer Behavior
+- Product Performance
+- Reorder Insight
 
 View the complete Instacart Customer Analysis Dashboard:
 
