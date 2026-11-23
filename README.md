@@ -90,3 +90,9 @@ Further documentation and project files will be added.
 
 ### 11. Top 10 Most Reordered Products
 ![Most Reordered Products](<visualizations/top 10 most reordered products.png>)
+
+## Power BI Dashboard
+
+View the complete Instacart Customer Analysis Dashboard:
+
+[View Dashboard (PDF)](dashboard/Instacart%20Customer%20Analysis%20Dashboard.pdf)
