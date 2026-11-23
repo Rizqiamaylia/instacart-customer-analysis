@@ -22,6 +22,7 @@ The objective is to identify purchasing patterns, product preferences, reorder b
 - SQL
 - Matplotlib
 - Seaborn
+- Power BI
 - Google Colab
 
 ## Project Workflow
@@ -52,9 +53,7 @@ The objective is to identify purchasing patterns, product preferences, reorder b
 
 ## Project Status
 
-Completed data cleaning, exploratory data analysis, 24 SQL analyses, and 11 SQL visualizations.
-
-Further documentation and project files will be added.
+Completed data cleaning, exploratory data analysis (EDA), 24 SQL analyses, 11 EDA visualizations, and an interactive Power BI dashboard consisting of four pages.
 
 ## Data Visualizations
 
