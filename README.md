@@ -6,6 +6,14 @@ This project analyzes customer purchasing behavior using the Instacart grocery e
 
 The objective is to identify purchasing patterns, product preferences, reorder behavior, and customer ordering trends to generate actionable business insights.
 
+## Dataset Source
+
+The dataset used in this project is the Instacart Market Basket Analysis dataset from Kaggle.
+
+Source: [Instacart Market Basket Analysis](https://www.kaggle.com/competitions/instacart-market-basket-analysis/data)
+
+The dataset contains anonymized customer orders, product information, product categories, and reorder indicators.
+
 ## Objectives
 
 - Analyze customer purchasing behavior and order patterns.
