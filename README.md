@@ -10,7 +10,7 @@ The objective is to identify purchasing patterns, product preferences, reorder b
 
 The dataset used in this project is the Instacart Market Basket Analysis dataset from Kaggle.
 
-Source: [Instacart Market Basket Analysis](https://www.kaggle.com/competitions/instacart-market-basket-analysis/data)
+Source: [Instacart Market Basket Analysis](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 
 The dataset contains anonymized customer orders, product information, product categories, and reorder indicators.
 
