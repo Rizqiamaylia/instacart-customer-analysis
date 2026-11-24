@@ -104,3 +104,17 @@ View the complete Instacart Customer Analysis Dashboard:
 [View Dashboard (PDF)](dashboard/Instacart%20Customer%20Analysis%20Dashboard.pdf)
 
 [Download Power BI Dashboard (.pbix)](dashboard/Dashboard%20Instacart.pbix)
+
+## Dashboard Preview
+
+### 1. Overview
+![Overview Dashboard](dashboard/overview-dashboard.png)
+
+### 2. Customer Behavior
+![Customer Behavior Dashboard](dashboard/customer-behavior-dashboard.png)
+
+### 3. Product Performance
+![Product Performance Dashboard](dashboard/product-performance-dashboard.png)
+
+### 4. Reorder Insight
+![Reorder Insight Dashboard](dashboard/reorder-insight-dashboard.png)
